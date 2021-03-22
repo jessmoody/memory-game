@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 ![]<img src="http://g.recordit.co/PEEOSAIHbI.gif"><br>
 <img src="http://g.recordit.co/jjRYwMG0sU.gif"><br>
-<img src="https://recordit.co/cnv75PEjX5"><br>
+<img src="http://g.recordit.co/cnv75PEjX5.gif"><br>
 
 
 ## Reflection Questions
