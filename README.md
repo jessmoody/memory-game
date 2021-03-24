@@ -4,7 +4,7 @@
 
 Submitted by: **Jessica Moody**
 
-Time spent: **2** hours spent in total
+Time spent: **2.5** hours spent in total
 
 Link to project: https://glitch.com/edit/#!/heathered-time-zone
 
@@ -22,10 +22,10 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-* [ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
-* [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
-* [ ] More than 4 functional game buttons
-* [ ] Playback speeds up on each turn
+* [x] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
+* [x] Buttons use a pitch (frequency) other than the ones in the tutorial
+* [x] More than 4 functional game buttons
+* [x] Playback speeds up on each turn
 * [ ] Computer picks a different pattern each time the game is played
 * [ ] Player only loses after 3 mistakes (instead of on the first mistake)
 * [ ] Game button appearance change goes beyond color (e.g. add an image)
@@ -49,13 +49,18 @@ Here's a walkthrough of implemented user stories:
     I didn't use any outside sources.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-    Unable to complete the extra features in time.
+    It was a challenge understanding some of the javascript because I am fairly new to javascript.  I started to understand it more by
+    studying the code. I also changed some of the code to see what would happen and then changed it back. This helped me get a better 
+    idea of what the code was doing.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-    None
+    How do you start a career as a web developer?
+    What skills do you need to become a web developer? What other technologies do you need to know?
+    What kinds of projects do web developers work on?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-    Implement all of the optional features.
+    I would like to create a random secret pattern and change the sounds the buttons make. I would like to give the player three strikes.
+    I would also like to format the page so it looks more updated. I would like to make the buttons look shiny and three-dimensional.
 
 
 
